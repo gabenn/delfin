@@ -17,6 +17,7 @@ Route::get('/', function () {
 Route::get('marek', function () {
     echo "aa";
     echo phpinfo();
+    dasdasfsa
     return "abc";
 });
 
