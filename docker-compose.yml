@@ -1,0 +1,47 @@
+version: '3.8'
+services:
+    app:
+        build:
+            context: .
+            dockerfile: docker/Dockerfile
+        image: laravel-app
+        container_name: laravel-app
+        restart: unless-stopped
+        working_dir: /var/www
+        volumes:
+            - .:/var/www
+            - ./docker/php/local.ini:/usr/local/etc/php/conf.d/local.ini
+        networks:
+            - laravel
+    webserver:
+        image: nginx:alpine
+        container_name: nginx
+        restart: unless-stopped
+        ports:
+            - "8080:80"
+        volumes:
+            - .:/var/www
+            - ./docker/nginx/conf.d:/etc/nginx/conf.d
+        networks:
+            - laravel
+
+    db:
+        image: mysql:8.1
+        container_name: mysql
+        restart: unless-stopped
+        environment:
+            MYSQL_DATABASE: delfin
+            MYSQL_ROOT_PASSWORD: delfin
+            MYSQL_USER: delfin
+            MYSQL_PASSWORD: delfin
+        ports:
+            - "3306:3306"
+        volumes:
+            - dbdata:/var/lib/mysql
+        networks:
+            - laravel
+
+networks:
+    laravel:
+volumes:
+    dbdata:
