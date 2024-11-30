@@ -11,9 +11,5 @@ class ActiveUserController extends Controller
         $user = User::findOrfail($id);
         $user->active = !$user->active;
         $user->save();
-
-        return response()->json([
-            'message' => 'User activity updated successfully'
-        ]);
     }
 }

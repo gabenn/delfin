@@ -52,3 +52,657 @@
 [8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
 [8] Log closed at 2024-11-30 15:34:51.463683
 
+[7] Log opened at 2024-11-30 15:43:30.341135
+[7] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.7'
+[7] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[7] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[7] Log closed at 2024-11-30 15:43:30.722107
+
+[8] Log opened at 2024-11-30 15:44:45.049242
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 15:44:45.441501
+
+[7] Log opened at 2024-11-30 15:44:45.876804
+[7] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.7'
+[7] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[7] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[7] Log closed at 2024-11-30 15:44:46.252364
+
+[8] Log opened at 2024-11-30 15:45:15.940241
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 15:45:16.316764
+
+[7] Log opened at 2024-11-30 15:46:31.761169
+[7] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.7'
+[7] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[7] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[7] Log closed at 2024-11-30 15:46:32.260496
+
+[8] Log opened at 2024-11-30 15:47:01.782362
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 15:47:02.180068
+
+[7] Log opened at 2024-11-30 15:47:52.424217
+[7] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.7'
+[7] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[7] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[7] Log closed at 2024-11-30 15:47:52.946203
+
+[8] Log opened at 2024-11-30 15:48:40.042159
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 15:48:40.410019
+
+[7] Log opened at 2024-11-30 15:49:17.378643
+[7] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.7'
+[7] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[7] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[7] Log closed at 2024-11-30 15:49:17.743203
+
+[8] Log opened at 2024-11-30 15:49:53.599998
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 15:49:53.987041
+
+[7] Log opened at 2024-11-30 15:49:56.085599
+[7] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.7'
+[7] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[7] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[7] Log closed at 2024-11-30 15:49:56.436322
+
+[8] Log opened at 2024-11-30 15:49:56.432123
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 15:49:56.791169
+
+[7] Log opened at 2024-11-30 15:49:56.803126
+[7] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.7'
+[7] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[7] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log opened at 2024-11-30 15:49:56.811953
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[7] Log closed at 2024-11-30 15:49:57.215425
+
+[8] Log closed at 2024-11-30 15:49:57.230595
+
+[23] Log opened at 2024-11-30 15:50:32.511029
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 15:50:32.940308
+
+[7] Log opened at 2024-11-30 15:50:37.381935
+[7] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.7'
+[7] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[7] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[7] Log closed at 2024-11-30 15:50:37.735709
+
+[8] Log opened at 2024-11-30 15:53:48.101894
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 15:53:48.484723
+
+[23] Log opened at 2024-11-30 15:54:01.916757
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 15:54:02.310573
+
+[7] Log opened at 2024-11-30 15:54:04.734992
+[7] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.7'
+[7] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[7] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[7] Log closed at 2024-11-30 15:54:05.106850
+
+[8] Log opened at 2024-11-30 15:54:09.388827
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 15:54:09.758580
+
+[23] Log opened at 2024-11-30 15:54:55.866877
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 15:54:56.288395
+
+[7] Log opened at 2024-11-30 15:54:58.692715
+[7] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.7'
+[7] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[7] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[7] Log closed at 2024-11-30 15:54:59.060267
+
+[8] Log opened at 2024-11-30 15:55:00.646142
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 15:55:01.029827
+
+[23] Log opened at 2024-11-30 15:55:02.727639
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 15:55:03.127168
+
+[7] Log opened at 2024-11-30 15:55:04.246400
+[7] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.7'
+[7] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[7] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log opened at 2024-11-30 15:55:04.543551
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[7] Log closed at 2024-11-30 15:55:04.620564
+
+[23] Log opened at 2024-11-30 15:55:04.886629
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 15:55:04.928208
+
+[7] Log opened at 2024-11-30 15:55:05.042535
+[7] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.7'
+[7] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[7] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log opened at 2024-11-30 15:55:05.222018
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 15:55:05.284238
+
+[23] Log opened at 2024-11-30 15:55:05.315441
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[7] Log closed at 2024-11-30 15:55:05.474470
+
+[8] Log closed at 2024-11-30 15:55:05.660014
+
+[23] Log closed at 2024-11-30 15:55:05.774599
+
+[24] Log opened at 2024-11-30 15:55:11.345557
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log closed at 2024-11-30 15:55:11.768301
+
+[8] Log opened at 2024-11-30 15:55:12.949088
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 15:55:13.349298
+
+[23] Log opened at 2024-11-30 15:55:28.101812
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 15:55:28.461374
+
+[24] Log opened at 2024-11-30 15:55:30.192972
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log closed at 2024-11-30 15:55:30.553787
+
+[8] Log opened at 2024-11-30 15:56:45.228667
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 15:56:45.622004
+
+[23] Log opened at 2024-11-30 15:56:48.322890
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 15:56:48.694888
+
+[24] Log opened at 2024-11-30 15:56:52.448011
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log closed at 2024-11-30 15:56:52.856256
+
+[8] Log opened at 2024-11-30 15:57:10.859569
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 15:57:11.084285
+
+[23] Log opened at 2024-11-30 15:59:30.278970
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 15:59:30.670471
+
+[24] Log opened at 2024-11-30 15:59:33.335963
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log closed at 2024-11-30 15:59:33.744312
+
+[8] Log opened at 2024-11-30 15:59:36.229165
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 15:59:36.594565
+
+[23] Log opened at 2024-11-30 15:59:38.507587
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 15:59:38.856885
+
+[24] Log opened at 2024-11-30 15:59:40.162303
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log closed at 2024-11-30 15:59:40.510736
+
+[8] Log opened at 2024-11-30 15:59:48.528042
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 15:59:48.906399
+
+[23] Log opened at 2024-11-30 16:00:00.858293
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 16:00:01.206361
+
+[24] Log opened at 2024-11-30 16:01:21.297363
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log closed at 2024-11-30 16:01:21.673340
+
+[8] Log opened at 2024-11-30 16:01:23.696858
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 16:01:24.056359
+
+[23] Log opened at 2024-11-30 16:01:28.434340
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 16:01:28.779122
+
+[24] Log opened at 2024-11-30 16:05:49.387420
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log closed at 2024-11-30 16:05:49.780366
+
+[8] Log opened at 2024-11-30 16:05:55.764359
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 16:05:56.120652
+
+[23] Log opened at 2024-11-30 16:06:50.375539
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 16:06:50.772866
+
+[24] Log opened at 2024-11-30 16:06:54.096588
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log closed at 2024-11-30 16:06:54.467457
+
+[8] Log opened at 2024-11-30 16:06:55.602680
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 16:06:55.945537
+
+[23] Log opened at 2024-11-30 16:06:56.995665
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 16:06:57.344136
+
+[24] Log opened at 2024-11-30 16:08:16.924050
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log closed at 2024-11-30 16:08:17.308910
+
+[8] Log opened at 2024-11-30 16:08:18.519766
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 16:08:18.891177
+
+[23] Log opened at 2024-11-30 16:09:02.746277
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 16:09:03.145387
+
+[24] Log opened at 2024-11-30 16:10:42.770280
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log closed at 2024-11-30 16:10:43.227761
+
+[8] Log opened at 2024-11-30 16:11:11.235408
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 16:11:11.837854
+
+[23] Log opened at 2024-11-30 16:11:29.313019
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 16:11:29.904084
+
+[24] Log opened at 2024-11-30 16:13:52.405681
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log closed at 2024-11-30 16:13:52.834102
+
+[8] Log opened at 2024-11-30 16:14:38.266040
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 16:14:38.677321
+
+[23] Log opened at 2024-11-30 16:14:40.930513
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log opened at 2024-11-30 16:14:41.308629
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 16:14:41.318375
+
+[24] Log closed at 2024-11-30 16:14:41.694658
+
+[8] Log opened at 2024-11-30 16:15:11.616373
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 16:15:12.071419
+
+[23] Log opened at 2024-11-30 16:18:39.659036
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 16:18:40.046082
+
+[24] Log opened at 2024-11-30 16:18:40.305235
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log closed at 2024-11-30 16:18:40.732595
+
+[8] Log opened at 2024-11-30 16:32:18.849639
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 16:32:19.223186
+
+[23] Log opened at 2024-11-30 16:32:30.220765
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 16:32:30.608389
+
+[24] Log opened at 2024-11-30 16:33:07.701088
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log closed at 2024-11-30 16:33:08.089242
+
+[8] Log opened at 2024-11-30 16:35:14.030421
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 16:35:14.424135
+
+[23] Log opened at 2024-11-30 16:36:02.035037
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 16:36:02.420068
+
+[24] Log opened at 2024-11-30 16:36:25.383185
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log closed at 2024-11-30 16:36:25.768632
+
+[8] Log opened at 2024-11-30 16:36:27.630617
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 16:36:27.972157
+
+[23] Log opened at 2024-11-30 16:36:32.864338
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log opened at 2024-11-30 16:36:33.206640
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 16:36:33.212272
+
+[24] Log closed at 2024-11-30 16:36:33.537196
+
+[8] Log opened at 2024-11-30 16:36:36.400598
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 16:36:36.775048
+
+[23] Log opened at 2024-11-30 16:36:39.695899
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 16:36:40.039185
+
+[24] Log opened at 2024-11-30 16:36:43.257851
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log closed at 2024-11-30 16:36:43.634697
+
+[8] Log opened at 2024-11-30 16:37:06.963318
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 16:37:07.310142
+
+[23] Log opened at 2024-11-30 16:37:07.306350
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 16:37:07.643054
+
+[24] Log opened at 2024-11-30 16:37:08.774296
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log opened at 2024-11-30 16:37:09.122927
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log closed at 2024-11-30 16:37:09.131855
+
+[8] Log closed at 2024-11-30 16:37:09.453613
+
+[23] Log opened at 2024-11-30 16:37:10.270657
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log opened at 2024-11-30 16:37:10.613729
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 16:37:10.618381
+
+[24] Log closed at 2024-11-30 16:37:10.942326
+
+[8] Log opened at 2024-11-30 16:37:11.739702
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log opened at 2024-11-30 16:37:12.077211
+[8] Log closed at 2024-11-30 16:37:12.081935
+
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 16:37:12.403997
+
+[24] Log opened at 2024-11-30 16:37:13.073866
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log opened at 2024-11-30 16:37:13.406198
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log closed at 2024-11-30 16:37:13.411340
+
+[8] Log closed at 2024-11-30 16:37:13.740169
+
+[23] Log opened at 2024-11-30 16:37:14.383662
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log opened at 2024-11-30 16:37:14.702075
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 16:37:14.704688
+
+[24] Log closed at 2024-11-30 16:37:15.022130
+
+[8] Log opened at 2024-11-30 16:39:32.179126
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 16:39:32.554719
+
+[23] Log opened at 2024-11-30 16:41:10.748333
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 16:41:11.103048
+
+[24] Log opened at 2024-11-30 16:41:11.108853
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log closed at 2024-11-30 16:41:11.481912
+
+[8] Log opened at 2024-11-30 16:41:12.428087
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 16:41:12.800833
+
+[23] Log opened at 2024-11-30 16:41:12.796978
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 16:41:13.130567
+
+[24] Log opened at 2024-11-30 16:41:13.850275
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log closed at 2024-11-30 16:41:14.209351
+
+[8] Log opened at 2024-11-30 16:41:14.207376
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 16:41:14.538750
+
+[23] Log opened at 2024-11-30 16:41:15.307985
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log opened at 2024-11-30 16:41:15.669677
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 16:41:15.674151
+
+[24] Log closed at 2024-11-30 16:41:15.997137
+
+[8] Log opened at 2024-11-30 16:41:47.229712
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 16:41:47.606086
+
+[23] Log opened at 2024-11-30 16:43:18.889797
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log opened at 2024-11-30 16:43:19.301736
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 16:43:19.307940
+
+[24] Log closed at 2024-11-30 16:43:19.665543
+
+[8] Log opened at 2024-11-30 16:43:20.904008
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log opened at 2024-11-30 16:43:21.251678
+[8] Log closed at 2024-11-30 16:43:21.254543
+
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 16:43:21.602556
+
+[24] Log opened at 2024-11-30 16:43:22.450681
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log closed at 2024-11-30 16:43:22.797643
+
+[8] Log opened at 2024-11-30 16:43:22.794790
+[8] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.8'
+[8] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[8] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[8] Log closed at 2024-11-30 16:43:23.168709
+
+[23] Log opened at 2024-11-30 16:43:24.059519
+[23] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.23'
+[23] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[23] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[24] Log opened at 2024-11-30 16:43:24.451721
+[24] [Config] INFO: Control socket set up successfully: '@xdebug-ctrl.24'
+[24] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[24] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[23] Log closed at 2024-11-30 16:43:24.456752
+
+[24] Log closed at 2024-11-30 16:43:24.776637
+
