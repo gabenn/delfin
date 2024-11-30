@@ -14,13 +14,6 @@ Route::get('/', function () {
     ]);
 });
 
-Route::get('marek', function () {
-    echo "aa";
-    echo phpinfo();
-    dasdasfsa
-    return "abc";
-});
-
 Route::get('/dashboard', function () {
     return Inertia::render('Dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
