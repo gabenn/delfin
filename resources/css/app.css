@@ -1,3 +1,231 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'Cocomat Pro';
+    src: url('/resources/fonts/CocomatPro-BoldItalic.eot');
+    src: local('Cocomat Pro Bold Italic'), local('CocomatPro-BoldItalic'),
+    url('/resources/fonts/CocomatPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+    url('/resources/fonts/CocomatPro-BoldItalic.woff2') format('woff2'),
+    url('/resources/fonts/CocomatPro-BoldItalic.woff') format('woff'),
+    url('/resources/fonts/CocomatPro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cocomat Pro';
+    src: url('/resources/fonts/CocomatPro-BlackItalic.eot');
+    src: local('Cocomat Pro Black Italic'), local('CocomatPro-BlackItalic'),
+    url('/resources/fonts/CocomatPro-BlackItalic.eot?#iefix') format('embedded-opentype'),
+    url('/resources/fonts/CocomatPro-BlackItalic.woff2') format('woff2'),
+    url('/resources/fonts/CocomatPro-BlackItalic.woff') format('woff'),
+    url('/resources/fonts/CocomatPro-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cocomat Pro';
+    src: url('/resources/fonts/CocomatPro-Black.eot');
+    src: local('Cocomat Pro Black'), local('CocomatPro-Black'),
+    url('/resources/fonts/CocomatPro-Black.eot?#iefix') format('embedded-opentype'),
+    url('/resources/fonts/CocomatPro-Black.woff2') format('woff2'),
+    url('/resources/fonts/CocomatPro-Black.woff') format('woff'),
+    url('/resources/fonts/CocomatPro-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cocomat Pro';
+    src: url('/resources/fonts/CocomatPro-ExtraLightItalic.eot');
+    src: local('Cocomat Pro ExtraLight Italic'), local('CocomatPro-ExtraLightItalic'),
+    url('/resources/fonts/CocomatPro-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+    url('/resources/fonts/CocomatPro-ExtraLightItalic.woff2') format('woff2'),
+    url('/resources/fonts/CocomatPro-ExtraLightItalic.woff') format('woff'),
+    url('/resources/fonts/CocomatPro-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cocomat Pro';
+    src: url('/resources/fonts/CocomatPro-ExtraBold.eot');
+    src: local('Cocomat Pro ExtraBold'), local('CocomatPro-ExtraBold'),
+    url('/resources/fonts/CocomatPro-ExtraBold.eot?#iefix') format('embedded-opentype'),
+    url('/resources/fonts/CocomatPro-ExtraBold.woff2') format('woff2'),
+    url('/resources/fonts/CocomatPro-ExtraBold.woff') format('woff'),
+    url('/resources/fonts/CocomatPro-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cocomat Pro';
+    src: url('/resources/fonts/CocomatPro-ThinItalic.eot');
+    src: local('Cocomat Pro Thin Italic'), local('CocomatPro-ThinItalic'),
+    url('/resources/fonts/CocomatPro-ThinItalic.eot?#iefix') format('embedded-opentype'),
+    url('/resources/fonts/CocomatPro-ThinItalic.woff2') format('woff2'),
+    url('/resources/fonts/CocomatPro-ThinItalic.woff') format('woff'),
+    url('/resources/fonts/CocomatPro-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cocomat Pro';
+    src: url('/resources/fonts/CocomatPro-MediumItalic.eot');
+    src: local('Cocomat Pro Medium Italic'), local('CocomatPro-MediumItalic'),
+    url('/resources/fonts/CocomatPro-MediumItalic.eot?#iefix') format('embedded-opentype'),
+    url('/resources/fonts/CocomatPro-MediumItalic.woff2') format('woff2'),
+    url('/resources/fonts/CocomatPro-MediumItalic.woff') format('woff'),
+    url('/resources/fonts/CocomatPro-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cocomat Pro';
+    src: url('/resources/fonts/CocomatPro-HeavyItalic.eot');
+    src: local('Cocomat Pro Heavy Italic'), local('CocomatPro-HeavyItalic'),
+    url('/resources/fonts/CocomatPro-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+    url('/resources/fonts/CocomatPro-HeavyItalic.woff2') format('woff2'),
+    url('/resources/fonts/CocomatPro-HeavyItalic.woff') format('woff'),
+    url('/resources/fonts/CocomatPro-HeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cocomat Pro';
+    src: url('/resources/fonts/CocomatPro-Regular.eot');
+    src: local('Cocomat Pro Regular'), local('CocomatPro-Regular'),
+    url('/resources/fonts/CocomatPro-Regular.eot?#iefix') format('embedded-opentype'),
+    url('/resources/fonts/CocomatPro-Regular.woff2') format('woff2'),
+    url('/resources/fonts/CocomatPro-Regular.woff') format('woff'),
+    url('/resources/fonts/CocomatPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cocomat Pro';
+    src: url('/resources/fonts/CocomatPro-ExtraBoldItalic.eot');
+    src: local('Cocomat Pro ExtraBold Italic'), local('CocomatPro-ExtraBoldItalic'),
+    url('/resources/fonts/CocomatPro-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+    url('/resources/fonts/CocomatPro-ExtraBoldItalic.woff2') format('woff2'),
+    url('/resources/fonts/CocomatPro-ExtraBoldItalic.woff') format('woff'),
+    url('/resources/fonts/CocomatPro-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cocomat Pro';
+    src: url('/resources/fonts/CocomatPro-Medium.eot');
+    src: local('Cocomat Pro Medium'), local('CocomatPro-Medium'),
+    url('/resources/fonts/CocomatPro-Medium.eot?#iefix') format('embedded-opentype'),
+    url('/resources/fonts/CocomatPro-Medium.woff2') format('woff2'),
+    url('/resources/fonts/CocomatPro-Medium.woff') format('woff'),
+    url('/resources/fonts/CocomatPro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cocomat Pro';
+    src: url('/resources/fonts/CocomatPro-Light.eot');
+    src: local('Cocomat Pro Light'), local('CocomatPro-Light'),
+    url('/resources/fonts/CocomatPro-Light.eot?#iefix') format('embedded-opentype'),
+    url('/resources/fonts/CocomatPro-Light.woff2') format('woff2'),
+    url('/resources/fonts/CocomatPro-Light.woff') format('woff'),
+    url('/resources/fonts/CocomatPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cocomat Pro';
+    src: url('/resources/fonts/CocomatPro-Thin.eot');
+    src: local('Cocomat Pro Thin'), local('CocomatPro-Thin'),
+    url('/resources/fonts/CocomatPro-Thin.eot?#iefix') format('embedded-opentype'),
+    url('/resources/fonts/CocomatPro-Thin.woff2') format('woff2'),
+    url('/resources/fonts/CocomatPro-Thin.woff') format('woff'),
+    url('/resources/fonts/CocomatPro-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cocomat Pro';
+    src: url('/resources/fonts/CocomatPro-Heavy.eot');
+    src: local('Cocomat Pro Heavy'), local('CocomatPro-Heavy'),
+    url('/resources/fonts/CocomatPro-Heavy.eot?#iefix') format('embedded-opentype'),
+    url('/resources/fonts/CocomatPro-Heavy.woff2') format('woff2'),
+    url('/resources/fonts/CocomatPro-Heavy.woff') format('woff'),
+    url('/resources/fonts/CocomatPro-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cocomat Pro';
+    src: url('/resources/fonts/CocomatPro-LightItalic.eot');
+    src: local('Cocomat Pro Light Italic'), local('CocomatPro-LightItalic'),
+    url('/resources/fonts/CocomatPro-LightItalic.eot?#iefix') format('embedded-opentype'),
+    url('/resources/fonts/CocomatPro-LightItalic.woff2') format('woff2'),
+    url('/resources/fonts/CocomatPro-LightItalic.woff') format('woff'),
+    url('/resources/fonts/CocomatPro-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cocomat Pro';
+    src: url('/resources/fonts/CocomatPro-ExtraLight.eot');
+    src: local('Cocomat Pro ExtraLight'), local('CocomatPro-ExtraLight'),
+    url('/resources/fonts/CocomatPro-ExtraLight.eot?#iefix') format('embedded-opentype'),
+    url('/resources/fonts/CocomatPro-ExtraLight.woff2') format('woff2'),
+    url('/resources/fonts/CocomatPro-ExtraLight.woff') format('woff'),
+    url('/resources/fonts/CocomatPro-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cocomat Pro';
+    src: url('/resources/fonts/CocomatPro-Bold.eot');
+    src: local('Cocomat Pro Bold'), local('CocomatPro-Bold'),
+    url('/resources/fonts/CocomatPro-Bold.eot?#iefix') format('embedded-opentype'),
+    url('/resources/fonts/CocomatPro-Bold.woff2') format('woff2'),
+    url('/resources/fonts/CocomatPro-Bold.woff') format('woff'),
+    url('/resources/fonts/CocomatPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cocomat Pro';
+    src: url('/resources/fonts/CocomatPro-Italic.eot');
+    src: local('Cocomat Pro Italic'), local('CocomatPro-Italic'),
+    url('/resources/fonts/CocomatPro-Italic.eot?#iefix') format('embedded-opentype'),
+    url('/resources/fonts/CocomatPro-Italic.woff2') format('woff2'),
+    url('/resources/fonts/CocomatPro-Italic.woff') format('woff'),
+    url('/resources/fonts/CocomatPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+body {
+    font-family: 'Cocomat Pro', sans-serif;
+    background: #38b6ff;
+    color: #fff;
+}
+
+#app {
+    min-height: 100vh !important;
+    display: flex !important;
+    flex-direction: column !important;
+}
