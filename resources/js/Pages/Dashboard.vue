@@ -1,7 +1,8 @@
 <script setup>
 import AuthenticatedLayout from '@/Layouts/AuthenticatedLayout.vue';
 import {Head, router, usePage} from '@inertiajs/vue3';
-import {computed} from "vue";
+import {computed, onMounted} from "vue";
+import {getUserLocalization} from "@/helpers.js";
 
 const page = usePage();
 const user = computed(() => page.props.auth.user);
@@ -13,6 +14,12 @@ const toggleActivity = () => {
     },
   });
 };
+
+onMounted(() => {
+  setInterval(() => {
+    getUserLocalization();
+  }, 3 * 60 * 1000);
+});
 </script>
 
 <template>
